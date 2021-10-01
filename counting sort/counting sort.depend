@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1633051351 source:c:\users\gabriela\downloads\counting sort\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+

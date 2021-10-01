@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1633049865 source:c:\users\gabriela\downloads\heapsort\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+	<stdbool.h>
+
+1633056883 source:c:\users\gabriela\downloads\heapsort\heapsort.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+	<stdbool.h>
+
